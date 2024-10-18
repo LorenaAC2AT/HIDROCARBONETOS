@@ -1,0 +1,109 @@
+.cabeca{
+    display: flex;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1200px;
+    align-items: center;
+}
+.redes{
+    margin: 20px;
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+}
+.principal{
+    width: 150px;
+    padding-right: 60px;
+    padding-left: 32px;
+    margin: 20px; 
+    text-align: justify;
+}
+h1{
+    font-size: 20px;
+}
+h2{
+    padding-left: 50px;
+    color: #77c7c4;
+}
+h3{
+    font-size: 25px;
+    color: #3f7c7a;
+}
+.texto1{
+    display: flex;
+    align-items: center;
+}
+.texto2{
+    align-items: center;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.hidrocarbonetos{
+    font-size: 30px;
+    padding-left: 45px;
+    color: #77c7c4;
+}
+.hidro{
+    margin: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+.hidro20{
+    margin: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+p{
+    margin: 30px;
+    line-height: 20px;
+    font-size: 15px; 
+}
+.petróleo{
+    background-color: #3f7c7a;
+    color: aliceblue;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 10px;
+}
+.imagemnomenclatura{
+    height: 500px;
+}
+
+.caixaimagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    margin: 30px;
+    height: 500px;
+}
+.aplicações{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.destilação{
+    height: 300px;
+}
+.rodape{
+    padding: 150px;
+    background-color: #77c7c4;
+}
+.titulo{
+    color: rgb(11, 40, 44);
+    font-size: 30px;
+    text-align: justify;
+    width: 150px;
+    padding-right: 60px;
+    padding-left: 32px;
+    margin: 20px;
+}
