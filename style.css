@@ -40,6 +40,15 @@ h3{
     padding-left: 80px;
     padding-right: 80px;
 }
+.nomenclatura{
+    padding: 20px;
+}
+.aplicacao{
+    padding: 20px;
+}
+.obtencao{
+    padding: 20px;
+}
 .hidrocarbonetos{
     font-size: 30px;
     padding-left: 45px;
@@ -54,6 +63,11 @@ h3{
     margin: 20px;
     font-size: 20px;
     text-align: center;
+}
+.hidro30{
+    margin: 20px;
+    font-size: 20px;
+    text-align: left;
 }
 p{
     margin: 30px;
@@ -76,7 +90,37 @@ p{
 .imagemnomenclatura{
     height: 500px;
 }
+.exemplo{
+    margin-left: 550px;
+    margin-right: 550px;
+}
+.caract{
+    display: contents;
+    justify-content: center;
+    align-items: baseline;
+}
+.caract2{
+    display: contents;
+    justify-content: center;
+    align-items: baseline;
+    margin-left: 200px;
+}
+.composto{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.PENT-2-ENO{
+    background-color: #3f7c7a;
+    color: aliceblue;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
 
+}
 .caixaimagem{
     display: flex;
     justify-content: center;
